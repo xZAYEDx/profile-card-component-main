@@ -24,13 +24,15 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 - Desktop viewing
+![image](https://user-images.githubusercontent.com/46198029/153934650-d39e9603-dbff-4ef4-9fdb-80459a309eba.png)
 
 - Mobile view
+![image](https://user-images.githubusercontent.com/46198029/153934817-8d002215-be86-4c60-889f-2f387ce896e4.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/xZAYEDx/profile-card-component-main)
+- Live Site URL: [live site](https://xzayedx.github.io/profile-card-component-main/)
 
 ## My process
 
